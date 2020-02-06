@@ -3,6 +3,4 @@
 incluindo uma linha.
 
 
-novamente alguma coisa numa nova linha.
-
-alteração local.
+fazendo alguma coisa diferente.
